@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SanjayGanapavarapu
 - 👀 I’m interested in cars and tech
-- 🌱 I’m currently learning mechanical engineering 
-- 💞️ I’m looking to collaborate on projects
+- 🌱 I’m currently doing my masters in aerospace and mechanical engineering
 - 📫 How to reach me ...
 
 <!---
